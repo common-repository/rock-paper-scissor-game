@@ -1,0 +1,68 @@
+
+#rps{
+    width:455px;
+    float:left;
+    margin-bottom:20px;
+    margin-top:40px;
+ 
+
+}
+#rps .info_column_neutral{
+    width:444px;
+    height:20px;
+    padding:5px;
+    float:left;
+    border:1px solid #EBAE7F;
+    background-color:#FFF8CC;
+    text-align:center; 
+    font-size:16px;
+}
+#rps .info_column_won{
+    width:444px;
+    height:20px;
+    padding:5px;
+    float:left;
+    border:1px solid green;
+    background-color:#F0FFE7;
+    text-align:center;
+    font-weight:bold;
+}
+#rps .info_column_lost{
+    width:444px;
+    height:20px;
+    padding:5px;
+    float:left;
+    border:1px solid red;
+    background-color:#FFE7E7;
+    text-align:center;
+    font-weight:bold;
+}
+#rps .left_column{
+    width:225px;
+    float:left;
+    margin-top:40px;
+    text-align:center;
+}
+#rps .right_column{
+    width:225px;
+    margin-top:40px;
+    float:left;
+    text-align:center;
+}
+#rps .select_column{
+    width:450px;
+    padding:5px;
+    margin-top:10px;
+    float:left;
+    background-color:#EFEFEF;
+    border:1px solid #C5C5C5;
+    text-align:center;
+    font-size:16px;
+}
+#rps .info_column{
+    width:450px;
+    margin-bottom:10px;
+    float:left;
+    border:1px solid black;
+    text-align:center;
+}
